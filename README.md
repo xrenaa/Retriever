@@ -18,6 +18,11 @@
 
 We are cleaning the code and hope to release it very soon.
 
+## Description   
+![image](https://ydcustc.github.io/retriever-demo/imgs/model.PNG)
+
+In this repo, we propose an **unsupervised** and **modality-agnostic** content-style disentanglement framework: **Retriever**. We demonstrate that our learned representation can benefit **zero-shot voice conversion**, **co-part segmentation**, and **style transfer**.
+
 ## BibTeX
 
 ```bibtex
