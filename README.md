@@ -21,7 +21,7 @@ We are cleaning the code and hope to release it very soon.
 ```bibtex
 @inproceedings{yin2022Retriever,
   title   = {Retriever: Learning Content-Style Representation as a Token-Level Bipartite Graph},
-  author  = {Dacheng Yin, Xuanchi Ren, Chong Luo, Yuwang Wang, Zhiwei Xiong, Wenjun Zeng},
+  author  = {Yin, Dacheng and Ren, Xuanchi and Luo, Chong and Wang, Yuwang, and Xiong, Zhiwei, and Zeng, Wenjun},
   booktitle = {ICLR},
   year    = {2022}
 }
