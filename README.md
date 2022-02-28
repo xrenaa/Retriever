@@ -7,7 +7,9 @@
 > Dacheng Yin*, Xuanchi Ren*, Chong Luo, Yuwang Wang, Zhiwei Xiong and Wenjun Zeng <br>
 > *ICLR 2022*<br>
 
-[[Paper](https://openreview.net/pdf?id=AXWygMvuT6Q)]
+[[Paper](https://openreview.net/pdf?id=AXWygMvuT6Q)] 
+[[arXiv](https://arxiv.org/abs/2202.12307)] 
+[[Demo Page](ydcustc.github.io/retriever-demo/)]
 
 ## Update (To Do):
 
