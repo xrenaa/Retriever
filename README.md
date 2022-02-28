@@ -9,7 +9,7 @@
 
 [[Paper](https://openreview.net/pdf?id=AXWygMvuT6Q)] 
 [[arXiv](https://arxiv.org/abs/2202.12307)] 
-[[Demo Page](ydcustc.github.io/retriever-demo/)]
+[[Demo Page](https://ydcustc.github.io/retriever-demo/)]
 
 ## Update (To Do):
 
