@@ -1,6 +1,6 @@
 # Retriever: Learning Content-Style Representation as a Token-Level Bipartite Graph
 
-<a href="https://arxiv.org/abs/2202.12307"><img src="https://img.shields.io/badge/arXiv-2102.10543-b31b1b.svg"></a>
+<a href="https://arxiv.org/abs/2202.12307"><img src="https://img.shields.io/badge/arXiv-2202.12307-b31b1b.svg"></a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
 
 > **Retriever: Learning Content-Style Representation as a Token-Level Bipartite Graph** <br>
