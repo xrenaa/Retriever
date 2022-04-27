@@ -14,11 +14,12 @@
 ## Update (To Do):
 
 <!-- :white_check_mark: Update SNGAN   -->
-:black_square_button: Release Code
+:black_square_button: Merge and Clean Code
 
 We are cleaning and merging the code and hope to release it very soon.
 
 For the vision part, we provide a sample (uncleaned) code [here](https://drive.google.com/file/d/1kqgDk_bcVlbIW2yOEbpaHxpq4MzWL1sg/view?usp=sharing).
+For the audio part, we provide a sample (uncleaned) code [here](https://drive.google.com/file/d/1mpXCj_bw26bu8D_GH2Drr24AuZeaKGyZ/view?usp=sharing).
 
 ## Description   
 ![image](https://ydcustc.github.io/retriever-demo/imgs/model.PNG)
