@@ -27,6 +27,14 @@ For the audio part, we provide a sample (uncleaned) code [here](https://drive.go
 
 In this repo, we propose an **unsupervised** and **modality-agnostic** content-style disentanglement framework: **Retriever**. We demonstrate that our learned representation can benefit **zero-shot voice conversion**, **co-part segmentation**, and **style transfer**.
 
+## Related Work
+
+Researcher found that Retriever can be applied to many more tasks!
+
+- Retriever for text based speech editing: [RetrieverTTS: Modeling Decomposed Factors for Text-Based Speech Insertion](https://www.isca-speech.org/archive/pdfs/interspeech_2022/yin22_interspeech.pdf).
+- Retriever for video: [Decomposing Style, Content, and Motion for Videos](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4177879).
+
+
 ## BibTeX
 
 ```bibtex
